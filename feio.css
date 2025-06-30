@@ -1,0 +1,64 @@
+body
+{
+  background-color: rgb(67, 28, 80);
+}
+
+.sla{
+    text-align: center;
+    margin: top 20px;
+    padding-top: 0 20px;
+    white-space: pre-wrap;
+    margin-right: 49px;
+    font-size:18px ;
+    font-family: 'Dancing Script',cursive;
+    
+}
+.pequeno
+{
+  margin-left: 37px;
+  font-size: 10px;
+  color: black;
+}
+
+.containerdocrl{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    text-align: center;
+    padding-bottom: 100px;
+    align-items: center;
+    width: 500px;
+    background-color: rgb(33, 104, 12);
+    margin: 0 auto;
+    margin-top: 103px; 
+    border-radius: 15px;
+    justify-content: flex-start;
+    box-sizing: border-box;
+
+}
+.imagem{
+  border-radius: 37px;
+  margin-top: 29px;
+  height: 220px;
+  width: 345px;
+}
+
+.ovo{
+ text-decoration: none;
+ color: black;
+ background-color: blueviolet;
+ padding: 11px;
+ border-radius: 30px;
+ box-shadow: ofset-x ;
+ font-family: 'Quicksand', sans-serif;
+ 
+}
+
+.ovo:hover{
+  background-color: #ddd;
+}
+
+p{
+  font-size: 6px;
+  color: rgb(41, 7, 72);
+}
